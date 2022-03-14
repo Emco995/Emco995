@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Emir
 
 
 
@@ -6,10 +6,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on mobile app,
 - 🌱 I’m currently learning React,
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Facebook - Emir Mujdanovic
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: emir.mujdanovic@gmail.com
 
