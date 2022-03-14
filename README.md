@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+A passionate Web-Developer from Bosnia and Herzegovina, located in Gradacac.
 
 - 🔭 I’m currently working on mobile app,
 - 🌱 I’m currently learning React,
